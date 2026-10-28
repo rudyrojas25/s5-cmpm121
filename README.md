@@ -1,3 +1,3 @@
 # s5-cmpm121
 
-hi
+I was not present in the last section
